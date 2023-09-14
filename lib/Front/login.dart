@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:iniciosesion/mundo/mysql.dart';
 
-
 // ignore: camel_case_types
 class login extends StatefulWidget {
   login({super.key});

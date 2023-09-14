@@ -1,3 +1,5 @@
+import 'dart:async';
+import 'dart:core';
 import 'package:mysql1/mysql1.dart';
 
 class Mysql{
